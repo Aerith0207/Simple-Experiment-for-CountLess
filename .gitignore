@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Newly generated experiment runs are reproducible and may be large.
+results/01_core_experiment/generated/
